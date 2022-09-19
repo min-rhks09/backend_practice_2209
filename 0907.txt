@@ -1,0 +1,5 @@
+#0900
+JavaScript
+JavaScript는 C언어와 성격이 비슷함
+(JavaScript-->TypeScript 학습추천(엄격한 문법,객체지향언어))
+

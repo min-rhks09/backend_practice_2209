@@ -1,0 +1,51 @@
+#1100
+script 언어_interpreter언어(python JavaScript basic)
+-실행과 동시에 작성한 코드가 기계어로 변환 
+-CPU
+
+compiler 언어(C Java)
+-번역(compile)후 실행
+
+internet(TCP/IP)
+TCP(transmission control protocol)
+-80:http 5000:flask 3000:node 
+
+internet protocol- Host 지정
+-IPv4: 4byte로 구성 1K-1M-1G
+-IPv6: 128bit 16byte로 구성 
+
+my pc 
+ 연결별 DNS 접미사. . . . :
+   링크-로컬 IPv6 주소 . . . . : fe80::39c1:fd95:d368:454d%8
+   IPv4 주소 . . . . . . . . . : 192.168.20.128
+   서브넷 마스크 . . . . . . . : 255.255.254.0
+   기본 게이트웨이 . . . . . . : 192.168.20.1
+
+#1200
+html:5
+
+cmd명령어(cd dir 등)
+
+<p/>시작 종료코드 같이쓰기
+
+#1400
+테이블 하이퍼링크 멜티미디어 파일 삽입
+
+#1500
+입력양식
+C-create-테이블생성,레코드 추가-POST
+R-retrieve,read-목록조회,상세조회-GET
+U-update-수정(권한)-PUT
+D-delete-삭제(권한)-DELETE
+
+BOOTSTRAP
+Material UI
+동일한 look & feel
+
+#1600
+div span iframe
+
+CSS
+
+box model 
+채ㅜㅅㄷ
