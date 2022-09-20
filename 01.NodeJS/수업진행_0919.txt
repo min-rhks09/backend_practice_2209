@@ -1,0 +1,6 @@
+backend(2w 과정)
+    - nodejs 기본기
+    - httpServer -> webServer
+    - Express, EJS -> web application
+    - mySQL, SQL(structured Query language)
+    - MINI PROJECT
